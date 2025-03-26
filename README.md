@@ -1,2 +1,2 @@
 # calculator
-a basic calculator including four primary operations, power and parenthesis
+a basic calculator including four primary operations, power and parenthesis using javascript
